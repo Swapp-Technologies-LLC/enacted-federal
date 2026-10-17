@@ -20,6 +20,18 @@ Nothing here is legal advice, and using it does not create an attorney-client re
 
 These records appear alongside the state records on **[enacted.app](https://enacted.app/)**.
 
+## Contents
+
+- [What's in it](#whats-in-it)
+- [Coverage](#coverage)
+  - [Water](#water)
+- [Sources](#sources)
+- [Checking a record yourself](#checking-a-record-yourself)
+- [Reuse and licences](#reuse-and-licences)
+- [Corrections](#corrections)
+- [About](#about)
+
+
 ## What's in it
 
 | Path | What it holds |
@@ -27,7 +39,21 @@ These records appear alongside the state records on **[enacted.app](https://enac
 | `water/rules/` | Federal Register rulemaking notices on drinking water, one Markdown file per document |
 | `coverage.json` | The scope this repository tracks |
 
-Today that is one record: the Environmental Protection Agency's proposed rule extending the compliance deadline for the PFOA and PFOS maximum contaminant levels (91 FR 29425, Federal Register document 2026-10086, docket EPA-HQ-OW-2025-1742).
+## Coverage
+
+### Water
+
+Federal drinking-water rulemaking, starting with the PFOA and PFOS limits that the state water records refer to.
+
+<details>
+<summary>The federal water record</summary>
+
+| Document | Agency | Action | Citation | Record |
+| :-- | :-- | :-- | :-- | :-- |
+| Extending the Compliance Deadline for the PFOA and PFOS Maximum Contaminant Levels | Environmental Protection Agency | Proposed rule, published 2026-05-20 | 91 FR 29425 (doc. 2026-10086; docket EPA-HQ-OW-2025-1742) | [`fr_2026_10086.md`](water/rules/fr_2026_10086.md) |
+
+</details>
+
 
 ## Sources
 
