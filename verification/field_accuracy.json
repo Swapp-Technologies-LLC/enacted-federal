@@ -1,0 +1,50 @@
+{
+  "repository": "enacted-federal",
+  "check_timestamp": "2026-11-04T05:25:27.920957+00:00",
+  "date_renderings_rules": [
+    "YYYY-MM-DD",
+    "MM/DD/YYYY",
+    "M/D/YYYY",
+    "M/DD/YYYY",
+    "MM/D/YYYY",
+    "Month D, YYYY",
+    "Month DD, YYYY",
+    "Mon D, YYYY",
+    "Mon. D, YYYY",
+    "Mon DD, YYYY",
+    "Mon. DD, YYYY",
+    "D Month YYYY",
+    "DD Month YYYY",
+    "D Mon YYYY",
+    "D Mon. YYYY",
+    "Month YYYY",
+    "Mon YYYY",
+    "Mon. YYYY"
+  ],
+  "records": [
+    {
+      "record": "water\\rules\\fr_2026_10086.md",
+      "record_type": "rule",
+      "jurisdiction": "federal",
+      "sources_available": [
+        ".cache\\pdf_cache\\5300f1c1aa28491a180b7e71bd61b60c147c832c3e75c99bf3b527b81441edf7.pdf"
+      ],
+      "fields": {
+        "title": {
+          "result": "found",
+          "recorded_value": "Extending the Compliance Deadline for the PFOA and PFOS Maximum Contaminant Levels",
+          "matched_string": "Extending the Compliance Deadline for the PFOA and PFOS Maximum Contaminant Levels",
+          "source_file": ".cache\\pdf_cache\\5300f1c1aa28491a180b7e71bd61b60c147c832c3e75c99bf3b527b81441edf7.pdf",
+          "location": "page 1"
+        },
+        "published_date": {
+          "result": "found",
+          "recorded_value": "2026-05-20",
+          "matched_string": "May 20, 2026",
+          "source_file": ".cache\\pdf_cache\\5300f1c1aa28491a180b7e71bd61b60c147c832c3e75c99bf3b527b81441edf7.pdf",
+          "location": "page 1, line 1"
+        }
+      }
+    }
+  ]
+}
