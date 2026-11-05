@@ -1,0 +1,22 @@
+quote: "The lead action level is exceeded if the concentration of lead in more than 10 percent of tap water samples collected during any monitoring period conducted in accordance with § 141.86 is greater than 0.015 mg/L (i.e., if the ‘‘90th percentile’’ lead level is greater than 0.015 mg/L)."
+citation: "40 CFR § 141.80(c)(1)"
+edition: "as codified on July 1, 2020"
+source_url: "https://www.govinfo.gov/content/pkg/CFR-2020-title40-vol25/pdf/CFR-2020-title40-vol25-part141.pdf"
+source_sha256: "35bb107f0179c68655889d7f58da0b7787daedd93fca16cb9042f3529817cfa9"
+source_fetched_at: "2026-11-04T03:48:03Z"
+source_page: 126
+copper:
+  quote: "The copper action level is exceeded if the concentration of copper in more than 10 percent of tap water samples collected during any monitoring period conducted in accordance with § 141.86 is greater than 1.3 mg/L (i.e., if the ‘‘90th percentile’’ copper level is greater than 1.3 mg/L)."
+  citation: "40 CFR § 141.80(c)(2)"
+  source_page: 126
+applies_by:
+  - transition_period: "Between December 16, 2021, and October 16, 2024"
+    quote: "Between December 16, 2021, and October 16, 2024, community water systems and non-transient, non-community water systems must comply with 40 CFR 141.80 through 141.91, as codified on July 1, 2020."
+    citation: "40 CFR § 141.80(a)(4)(i) (2023 edition)"
+    source_sha256: "d08daa941f5b0297ff943312da1916efc4b408cc3cf9f4fc158830639cddb5bb"
+    source_page: 129
+  - transition_period: "Between October 30, 2024, and November 1, 2027"
+    quote: "Between October 30, 2024, and November 1, 2027, community water systems and non-transient non-community water systems must comply with 40 CFR 141.2, 141.31(d), and 141.80 through 141.91, as codified on July 1, 2020, except systems must also comply with 40 CFR 141.84(a)(1) through (10) (excluding paragraphs (a)(6) and (7)), 141.85(a)(1)(ii) and (e), 141.90(e)(1) and (13), (f)(4), and (h)(3), 141.201(a)(3)(vi) and (c)(3), and 141.202(a)(10); 40 CFR part 141, appendix A to subpart Q, entry I.C.1 (excluding § 141.90, except paragraphs (e)(1) and (13) and (f)(4)) and entry I.C.2; 40 CFR part 141, appendix B to subpart Q, entry D.23; and 40 CFR 141.31(d)(2), as codified on July 1, 2024."
+    citation: "40 CFR § 141.80(a)(4)(i) (2025 edition)"
+    source_sha256: "02917f1ff842b84f3040be5de44d6c3641c28e484b2f5d6fdb2a5313bdc52bd3"
+    source_page: 132
